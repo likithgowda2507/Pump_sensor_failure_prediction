@@ -1,0 +1,360 @@
+2026-02-24 12:37:44,617 - INFO - Handling missing values
+2026-02-24 12:37:44,830 - INFO - Encoding categorical columns
+2026-02-24 12:37:44,861 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:37:45,249 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:37:45,427 - INFO - Creating domain-specific features
+2026-02-24 12:39:45,099 - INFO - Handling missing values
+2026-02-24 12:39:45,126 - INFO - Encoding categorical columns
+2026-02-24 12:39:45,134 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:39:45,183 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:39:45,206 - INFO - Creating domain-specific features
+2026-02-24 12:41:39,472 - INFO - Handling missing values
+2026-02-24 12:41:39,647 - INFO - Encoding categorical columns
+2026-02-24 12:41:39,690 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:41:40,299 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:41:40,429 - INFO - Creating domain-specific features
+2026-02-24 12:44:28,214 - INFO - Handling missing values
+2026-02-24 12:44:28,246 - INFO - Encoding categorical columns
+2026-02-24 12:44:28,251 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:44:28,286 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:44:28,301 - INFO - Creating domain-specific features
+2026-02-24 12:44:39,116 - INFO - Handling missing values
+2026-02-24 12:44:39,141 - INFO - Encoding categorical columns
+2026-02-24 12:44:39,148 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:44:39,186 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:44:39,200 - INFO - Creating domain-specific features
+2026-02-24 12:45:23,694 - INFO - Handling missing values
+2026-02-24 12:45:23,745 - INFO - Encoding categorical columns
+2026-02-24 12:45:23,756 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:45:23,820 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:45:23,832 - INFO - Creating domain-specific features
+2026-02-24 12:52:24,382 - INFO - Handling missing values
+2026-02-24 12:52:24,666 - INFO - Encoding categorical columns
+2026-02-24 12:52:24,692 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:52:25,146 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:52:25,175 - INFO - Creating domain-specific features
+2026-02-24 12:52:33,475 - INFO - Handling missing values
+2026-02-24 12:52:33,498 - INFO - Encoding categorical columns
+2026-02-24 12:52:33,502 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:52:33,536 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:52:33,557 - INFO - Creating domain-specific features
+2026-02-24 12:52:41,251 - INFO - Handling missing values
+2026-02-24 12:52:41,265 - INFO - Encoding categorical columns
+2026-02-24 12:52:41,268 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:52:41,298 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:52:41,309 - INFO - Creating domain-specific features
+2026-02-24 12:52:50,773 - INFO - Handling missing values
+2026-02-24 12:52:50,800 - INFO - Encoding categorical columns
+2026-02-24 12:52:50,805 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:52:50,851 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:52:50,862 - INFO - Creating domain-specific features
+2026-02-24 12:52:56,879 - INFO - Handling missing values
+2026-02-24 12:52:56,893 - INFO - Encoding categorical columns
+2026-02-24 12:52:56,897 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:52:56,928 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:52:56,940 - INFO - Creating domain-specific features
+2026-02-24 12:53:07,467 - INFO - Handling missing values
+2026-02-24 12:53:07,483 - INFO - Encoding categorical columns
+2026-02-24 12:53:07,487 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:07,536 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:07,550 - INFO - Creating domain-specific features
+2026-02-24 12:53:26,887 - INFO - Handling missing values
+2026-02-24 12:53:26,902 - INFO - Encoding categorical columns
+2026-02-24 12:53:26,910 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:26,940 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:26,949 - INFO - Creating domain-specific features
+2026-02-24 12:53:29,332 - INFO - Handling missing values
+2026-02-24 12:53:29,347 - INFO - Encoding categorical columns
+2026-02-24 12:53:29,355 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:29,397 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:29,409 - INFO - Creating domain-specific features
+2026-02-24 12:53:33,781 - INFO - Handling missing values
+2026-02-24 12:53:33,797 - INFO - Encoding categorical columns
+2026-02-24 12:53:33,801 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:33,843 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:33,855 - INFO - Creating domain-specific features
+2026-02-24 12:53:38,677 - INFO - Handling missing values
+2026-02-24 12:53:38,691 - INFO - Encoding categorical columns
+2026-02-24 12:53:38,697 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:38,735 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:38,745 - INFO - Creating domain-specific features
+2026-02-24 12:53:44,860 - INFO - Handling missing values
+2026-02-24 12:53:44,877 - INFO - Encoding categorical columns
+2026-02-24 12:53:44,885 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:44,917 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:44,926 - INFO - Creating domain-specific features
+2026-02-24 12:53:48,894 - INFO - Handling missing values
+2026-02-24 12:53:48,907 - INFO - Encoding categorical columns
+2026-02-24 12:53:48,910 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:48,939 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:48,950 - INFO - Creating domain-specific features
+2026-02-24 12:53:51,060 - INFO - Handling missing values
+2026-02-24 12:53:51,073 - INFO - Encoding categorical columns
+2026-02-24 12:53:51,080 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:51,117 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:51,126 - INFO - Creating domain-specific features
+2026-02-24 12:53:52,352 - INFO - Handling missing values
+2026-02-24 12:53:52,365 - INFO - Encoding categorical columns
+2026-02-24 12:53:52,371 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:52,400 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:52,409 - INFO - Creating domain-specific features
+2026-02-24 12:53:53,489 - INFO - Handling missing values
+2026-02-24 12:53:53,504 - INFO - Encoding categorical columns
+2026-02-24 12:53:53,509 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:53,541 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:53,558 - INFO - Creating domain-specific features
+2026-02-24 12:53:55,189 - INFO - Handling missing values
+2026-02-24 12:53:55,203 - INFO - Encoding categorical columns
+2026-02-24 12:53:55,206 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:55,237 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:55,249 - INFO - Creating domain-specific features
+2026-02-24 12:53:59,642 - INFO - Handling missing values
+2026-02-24 12:53:59,669 - INFO - Encoding categorical columns
+2026-02-24 12:53:59,679 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:53:59,714 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:53:59,725 - INFO - Creating domain-specific features
+2026-02-24 12:54:04,360 - INFO - Handling missing values
+2026-02-24 12:54:04,384 - INFO - Encoding categorical columns
+2026-02-24 12:54:04,394 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:04,440 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:04,451 - INFO - Creating domain-specific features
+2026-02-24 12:54:06,833 - INFO - Handling missing values
+2026-02-24 12:54:06,851 - INFO - Encoding categorical columns
+2026-02-24 12:54:06,858 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:06,893 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:06,914 - INFO - Creating domain-specific features
+2026-02-24 12:54:18,988 - INFO - Handling missing values
+2026-02-24 12:54:19,019 - INFO - Encoding categorical columns
+2026-02-24 12:54:19,025 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:19,074 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:19,088 - INFO - Creating domain-specific features
+2026-02-24 12:54:31,046 - INFO - Handling missing values
+2026-02-24 12:54:31,061 - INFO - Encoding categorical columns
+2026-02-24 12:54:31,065 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:31,099 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:31,111 - INFO - Creating domain-specific features
+2026-02-24 12:54:35,570 - INFO - Handling missing values
+2026-02-24 12:54:35,583 - INFO - Encoding categorical columns
+2026-02-24 12:54:35,586 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:35,621 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:35,636 - INFO - Creating domain-specific features
+2026-02-24 12:54:44,576 - INFO - Handling missing values
+2026-02-24 12:54:44,590 - INFO - Encoding categorical columns
+2026-02-24 12:54:44,593 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:44,626 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:44,637 - INFO - Creating domain-specific features
+2026-02-24 12:54:48,183 - INFO - Handling missing values
+2026-02-24 12:54:48,195 - INFO - Encoding categorical columns
+2026-02-24 12:54:48,199 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:48,228 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:48,242 - INFO - Creating domain-specific features
+2026-02-24 12:54:49,382 - INFO - Handling missing values
+2026-02-24 12:54:49,394 - INFO - Encoding categorical columns
+2026-02-24 12:54:49,399 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:49,428 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:49,440 - INFO - Creating domain-specific features
+2026-02-24 12:54:53,495 - INFO - Handling missing values
+2026-02-24 12:54:53,508 - INFO - Encoding categorical columns
+2026-02-24 12:54:53,513 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:54:53,554 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:54:53,576 - INFO - Creating domain-specific features
+2026-02-24 12:56:49,295 - INFO - Handling missing values
+2026-02-24 12:56:49,315 - INFO - Encoding categorical columns
+2026-02-24 12:56:49,322 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:56:49,368 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:56:49,384 - INFO - Creating domain-specific features
+2026-02-24 12:56:53,657 - INFO - Handling missing values
+2026-02-24 12:56:53,674 - INFO - Encoding categorical columns
+2026-02-24 12:56:53,677 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:56:53,710 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:56:53,720 - INFO - Creating domain-specific features
+2026-02-24 12:57:00,453 - INFO - Handling missing values
+2026-02-24 12:57:00,468 - INFO - Encoding categorical columns
+2026-02-24 12:57:00,473 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:57:00,509 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:57:00,520 - INFO - Creating domain-specific features
+2026-02-24 12:57:08,083 - INFO - Handling missing values
+2026-02-24 12:57:08,096 - INFO - Encoding categorical columns
+2026-02-24 12:57:08,099 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:57:08,127 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:57:08,137 - INFO - Creating domain-specific features
+2026-02-24 12:57:10,438 - INFO - Handling missing values
+2026-02-24 12:57:10,450 - INFO - Encoding categorical columns
+2026-02-24 12:57:10,453 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:57:10,479 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:57:10,492 - INFO - Creating domain-specific features
+2026-02-24 12:57:14,001 - INFO - Handling missing values
+2026-02-24 12:57:14,014 - INFO - Encoding categorical columns
+2026-02-24 12:57:14,023 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 12:57:14,054 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 12:57:14,066 - INFO - Creating domain-specific features
+2026-02-24 13:00:47,787 - INFO - Handling missing values
+2026-02-24 13:00:47,814 - INFO - Encoding categorical columns
+2026-02-24 13:00:47,819 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:00:47,873 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:00:47,888 - INFO - Creating domain-specific features
+2026-02-24 13:01:01,255 - INFO - Handling missing values
+2026-02-24 13:01:01,273 - INFO - Encoding categorical columns
+2026-02-24 13:01:01,281 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:01,319 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:01,330 - INFO - Creating domain-specific features
+2026-02-24 13:01:02,664 - INFO - Handling missing values
+2026-02-24 13:01:02,675 - INFO - Encoding categorical columns
+2026-02-24 13:01:02,679 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:02,706 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:02,718 - INFO - Creating domain-specific features
+2026-02-24 13:01:03,796 - INFO - Handling missing values
+2026-02-24 13:01:03,808 - INFO - Encoding categorical columns
+2026-02-24 13:01:03,811 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:03,838 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:03,848 - INFO - Creating domain-specific features
+2026-02-24 13:01:05,179 - INFO - Handling missing values
+2026-02-24 13:01:05,190 - INFO - Encoding categorical columns
+2026-02-24 13:01:05,194 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:05,227 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:05,237 - INFO - Creating domain-specific features
+2026-02-24 13:01:06,176 - INFO - Handling missing values
+2026-02-24 13:01:06,188 - INFO - Encoding categorical columns
+2026-02-24 13:01:06,192 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:06,221 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:06,231 - INFO - Creating domain-specific features
+2026-02-24 13:01:07,108 - INFO - Handling missing values
+2026-02-24 13:01:07,121 - INFO - Encoding categorical columns
+2026-02-24 13:01:07,127 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:07,155 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:07,165 - INFO - Creating domain-specific features
+2026-02-24 13:01:08,175 - INFO - Handling missing values
+2026-02-24 13:01:08,187 - INFO - Encoding categorical columns
+2026-02-24 13:01:08,191 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:08,221 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:08,232 - INFO - Creating domain-specific features
+2026-02-24 13:01:09,849 - INFO - Handling missing values
+2026-02-24 13:01:09,861 - INFO - Encoding categorical columns
+2026-02-24 13:01:09,864 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:09,895 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:09,907 - INFO - Creating domain-specific features
+2026-02-24 13:01:10,705 - INFO - Handling missing values
+2026-02-24 13:01:10,717 - INFO - Encoding categorical columns
+2026-02-24 13:01:10,720 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:10,752 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:10,763 - INFO - Creating domain-specific features
+2026-02-24 13:01:11,780 - INFO - Handling missing values
+2026-02-24 13:01:11,792 - INFO - Encoding categorical columns
+2026-02-24 13:01:11,797 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:01:11,835 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:01:11,853 - INFO - Creating domain-specific features
+2026-02-24 13:03:08,735 - INFO - Handling missing values
+2026-02-24 13:03:08,843 - INFO - Encoding categorical columns
+2026-02-24 13:03:08,867 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:03:09,226 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:03:09,541 - INFO - Creating domain-specific features
+2026-02-24 13:03:29,647 - INFO - Handling missing values
+2026-02-24 13:03:29,972 - INFO - Encoding categorical columns
+2026-02-24 13:03:30,093 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:03:31,037 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:03:31,218 - INFO - Creating domain-specific features
+2026-02-24 13:04:46,848 - INFO - Handling missing values
+2026-02-24 13:04:47,150 - INFO - Encoding categorical columns
+2026-02-24 13:04:47,183 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:04:47,423 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:04:47,502 - INFO - Creating domain-specific features
+2026-02-24 13:06:15,692 - INFO - Handling missing values
+2026-02-24 13:06:15,765 - INFO - Encoding categorical columns
+2026-02-24 13:06:15,801 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:06:16,132 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:06:16,219 - INFO - Creating domain-specific features
+2026-02-24 13:06:49,390 - INFO - Handling missing values
+2026-02-24 13:06:49,909 - INFO - Encoding categorical columns
+2026-02-24 13:06:50,047 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:06:50,492 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:06:50,552 - INFO - Creating domain-specific features
+2026-02-24 13:07:26,867 - INFO - Handling missing values
+2026-02-24 13:07:26,952 - INFO - Encoding categorical columns
+2026-02-24 13:07:27,042 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:07:27,457 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:07:27,509 - INFO - Creating domain-specific features
+2026-02-24 13:08:05,884 - INFO - Handling missing values
+2026-02-24 13:08:06,047 - INFO - Encoding categorical columns
+2026-02-24 13:08:06,060 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:08:06,697 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:08:06,783 - INFO - Creating domain-specific features
+2026-02-24 13:08:16,714 - INFO - Handling missing values
+2026-02-24 13:08:16,774 - INFO - Encoding categorical columns
+2026-02-24 13:08:16,809 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:08:17,017 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:08:17,097 - INFO - Creating domain-specific features
+2026-02-24 13:08:48,633 - INFO - Handling missing values
+2026-02-24 13:08:48,915 - INFO - Encoding categorical columns
+2026-02-24 13:08:48,934 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:08:49,170 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:08:49,232 - INFO - Creating domain-specific features
+2026-02-24 13:09:32,754 - INFO - Handling missing values
+2026-02-24 13:09:32,862 - INFO - Encoding categorical columns
+2026-02-24 13:09:32,879 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:09:33,070 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:09:33,135 - INFO - Creating domain-specific features
+2026-02-24 13:10:20,190 - INFO - Handling missing values
+2026-02-24 13:10:20,469 - INFO - Encoding categorical columns
+2026-02-24 13:10:20,516 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:10:20,617 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:10:20,660 - INFO - Creating domain-specific features
+2026-02-24 13:12:02,977 - INFO - Handling missing values
+2026-02-24 13:12:03,159 - INFO - Encoding categorical columns
+2026-02-24 13:12:03,241 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:12:03,535 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:12:03,664 - INFO - Creating domain-specific features
+2026-02-24 13:12:55,008 - INFO - Handling missing values
+2026-02-24 13:12:55,201 - INFO - Encoding categorical columns
+2026-02-24 13:12:55,301 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:12:55,955 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:12:56,027 - INFO - Creating domain-specific features
+2026-02-24 13:15:37,132 - INFO - Handling missing values
+2026-02-24 13:15:37,343 - INFO - Encoding categorical columns
+2026-02-24 13:15:37,351 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:15:37,635 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:15:37,695 - INFO - Creating domain-specific features
+2026-02-24 13:20:14,319 - INFO - Handling missing values
+2026-02-24 13:20:14,348 - INFO - Encoding categorical columns
+2026-02-24 13:20:14,354 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:20:14,392 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:20:14,407 - INFO - Creating domain-specific features
+2026-02-24 13:20:31,180 - INFO - Handling missing values
+2026-02-24 13:20:31,203 - INFO - Encoding categorical columns
+2026-02-24 13:20:31,215 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:20:31,258 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:20:31,272 - INFO - Creating domain-specific features
+2026-02-24 13:20:36,585 - INFO - Handling missing values
+2026-02-24 13:20:36,601 - INFO - Encoding categorical columns
+2026-02-24 13:20:36,610 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:20:36,645 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:20:36,655 - INFO - Creating domain-specific features
+2026-02-24 13:20:38,525 - INFO - Handling missing values
+2026-02-24 13:20:38,537 - INFO - Encoding categorical columns
+2026-02-24 13:20:38,540 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:20:38,579 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:20:38,590 - INFO - Creating domain-specific features
+2026-02-24 13:20:47,197 - INFO - Handling missing values
+2026-02-24 13:20:47,213 - INFO - Encoding categorical columns
+2026-02-24 13:20:47,222 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:20:47,262 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:20:47,273 - INFO - Creating domain-specific features
+2026-02-24 13:21:00,576 - INFO - Handling missing values
+2026-02-24 13:21:00,621 - INFO - Encoding categorical columns
+2026-02-24 13:21:00,634 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:21:00,677 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:21:00,694 - INFO - Creating domain-specific features
+2026-02-24 13:21:10,999 - INFO - Handling missing values
+2026-02-24 13:21:11,014 - INFO - Encoding categorical columns
+2026-02-24 13:21:11,020 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:21:11,066 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:21:11,078 - INFO - Creating domain-specific features
+2026-02-24 13:21:16,690 - INFO - Handling missing values
+2026-02-24 13:21:16,703 - INFO - Encoding categorical columns
+2026-02-24 13:21:16,707 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:21:16,739 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:21:16,753 - INFO - Creating domain-specific features
+2026-02-24 13:21:22,110 - INFO - Handling missing values
+2026-02-24 13:21:22,121 - INFO - Encoding categorical columns
+2026-02-24 13:21:22,125 - INFO - Creating rolling features for windows [3, 6]
+2026-02-24 13:21:22,169 - INFO - Creating lag features for lags [1, 3, 6]
+2026-02-24 13:21:22,180 - INFO - Creating domain-specific features
